@@ -22,7 +22,7 @@ The CTF was broken into the following sections with specific section write-ups i
 **5. Technology**
 
 # Results
-2PAC ended up placing 2nd overall. The max score for the CTF was 385 and consisted of a flat score awarded for each flag regardless of previous participants getting the flag. The max score was achieved by 3 participants which fit nicely because the prizes were awarded for the Top 3 places in the CTF. 2nd Place prize was: INSERT PRIZE HERE.
+2PAC ended up placing 2nd overall. The max score for the CTF was 385 and consisted of a flat score awarded for each flag regardless of previous participants getting the flag. The max score was achieved by 3 participants which fit nicely because the prizes were awarded for the Top 3 places in the CTF. 2nd Place prize was: [_Open Source Intelligence Techniques - Resources for Searching and Analyzing Information_ by Michaell Bazzell](https://inteltechniques.com/book1.html).
 ![Scores](https://user-images.githubusercontent.com/85370905/121084713-fd217f80-c7ae-11eb-9dc5-82417c3e2b94.PNG)
 *Scores of participants who found flags*
  
